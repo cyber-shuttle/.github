@@ -1,12 +1,14 @@
-## Hi there 👋
+## 👋 Cybershuttle - Unified Research Across Local, Cloud, and HPC
 
-**Balance Local and Remote for Streamlined Research with Cybershuttle**
+Cybershuttle effortlessly connects your laptop, cloud resources, and supercomputers into one streamlined research environment. Run quick analyses locally, seamlessly offload intensive simulations to remote HPC clusters, and have your data automatically flow where you need it. No rewriting code. No manual transfers. Just smoother, faster science.
 
-Cybershuttle expertly balances local and remote computing, seamlessly orchestrating tasks and data between machines. Schedule time-sensitive, small tasks locally, and reserve compute-intensive tasks for powerful remote HPC resources, with data transparently accessible everywhere. This approach significantly enhances the efficiency of scientific workflows compared to fully remote or fully local operations.
+By intelligently optimizing task placement and data movement, Cybershuttle accelerates computational workflows beyond what purely local or remote solutions can achieve.
 
-Cybershuttle is built upon the Airavata middleware.
+Powered by [Apache Airavata](https://github.com/apache/airavata), Cybershuttle empowers researchers with a unified, friction-free computing experience.
 
-> Powered by Cybershuttle + Airavata
+### Events and Workshops
+- **May 07, 2025** [Cyberinfrastructure and Services for Science & Engineering Workshop (CISSE25)](https://cybershuttle.org/resources?resourceTypes=REPOSITORY&tags=CISSE25)
+- **April 11, 2025** [Data-Driven and Large-Scale Modeling in Neuroscience (NeuroData25)](https://cybershuttle.org/resources?resourceTypes=REPOSITORY&tags=neurodata25)
 
 ### Featured Projects
 
